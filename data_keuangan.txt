@@ -1,0 +1,4 @@
+Kategori,Keterangan,Jumlah
+Transportasi,Bensin,50000.0
+Makan malam,Nasi Padang 2 bungkus,20000.0
+Minuman,Es teh manis 2,10000.0
